@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 author: Matthew Wright
 title: mwrightdev.com
-email: matthew@mwrightdev.com
+#email: matthew@mwrightdev.com
 description: > # this means to ignore newlines until "baseurl:"
   This site is under constant development. It began with the jekyll minima
   layout, and will be improved as I learn CSS and HTML. 
