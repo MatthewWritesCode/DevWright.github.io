@@ -3,16 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+##About Me
+Stuff here...
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+##About the Site
+This site is hosted by [GitHub Pages](https://pages.github.com/) and built using Jekyll. For a while, I was attempting to use Wordpress, but too many things prevented me from liking the platform. The learning curve was large for a first time web developer, backups required more effort than I liked, and there was a lack of good free hosting services. GitHub Pages ticks all those boxes, so it's currently the platform I'm using.
