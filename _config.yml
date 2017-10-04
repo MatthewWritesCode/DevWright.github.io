@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This site is under constant development. It began with the jekyll minima
   layout, and will be improved as I learn CSS and HTML. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://mwright.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.mwright.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  DevWright
 
